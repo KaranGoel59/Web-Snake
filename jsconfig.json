@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "target": "es6",
+        "baseUrl": ".",
+        "paths": {
+            "config/*": ["./src/config/*"],
+            "prefabs/*": ["./src/prefabs/*"],
+            "scenes/*": ["./src/scenes/*"],
+            "scripts/*": ["./src/scripts/*"]
+        }
+    },
+    "exclude": ["node_modules"]
+}

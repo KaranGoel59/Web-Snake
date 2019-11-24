@@ -1,0 +1,12 @@
+body {
+    background-color: steelblue;
+}
+
+#snake-game {
+    text-align: center;
+
+    canvas {
+        border-radius: 20px;
+        border: 5px solid seagreen;
+    }
+}
