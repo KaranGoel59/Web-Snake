@@ -17,9 +17,8 @@ Esc to Menu <br/>
 
 ## Screen Shots
 
-Menu
-
+Menu <br/>
 ![Alt text](https://i.ibb.co/0r6yYfP/menu.png)
 
-GamePlay
+GamePlay <br/>
 ![Alt text](https://i.ibb.co/9NXr9jS/game.png)
